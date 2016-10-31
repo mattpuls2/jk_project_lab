@@ -1,3 +1,7 @@
 three
 lines
 of text
+
+NEW
+TEXT
+LINES
